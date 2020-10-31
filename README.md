@@ -1,6 +1,6 @@
 # hackerOverflow
 
-.ipynb is the file which detects underwater gate/door.
+.ipynb is the file which detects underwater gate/door.<br>
 main.py file preprocesses the image.
 make sure to set the value of the path(from where you load the image) carefully.
 Input folder stores the raw image.
